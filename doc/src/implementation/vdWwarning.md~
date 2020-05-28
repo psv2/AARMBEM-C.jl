@@ -1,0 +1,6 @@
+# vdW interactions in AARMBEM-C.jl
+
+!!! warning
+
+    vdW interaction free energy calculations have not been tested at
+    all in AARMBEM-C.jl. 
